@@ -1,0 +1,11 @@
+{
+  "domain":"datouboss_dt2430",
+  "name":"DatouBoss DT2430",
+  "version":"0.0.1",
+  "documentation":"https://github.com/jjey59/homeassistant-datouboss-dt2430",
+  "requirements":[],
+  "dependencies":[],
+  "codeowners":["@jjey59"],
+  "iot_class":"local_polling",
+  "config_flow":true
+}
